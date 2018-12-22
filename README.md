@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # hello_world
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our 
 [online documentation](https://flutter.io/docs), which offers tutorials, 
 samples, guidance on mobile development, and a full API reference.
+=======
+# BasicApp
+A basic App made using flutter.
+>>>>>>> 33d0827a1c8dd76f42c006f98647588e6975ae1a
